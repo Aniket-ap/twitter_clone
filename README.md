@@ -1,1 +1,2 @@
-# twitter_clone (HTML_CSS_JAVASCRIPT
+# twitter_clone
+### HTML, CSS, JAVASCRIPT
